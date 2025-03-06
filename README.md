@@ -68,14 +68,12 @@ Este proyecto tiene como objetivo transformar datos crudos en información útil
 
 2️⃣ **Instala las dependencias necesarias:**  
 Con "!" al principio si es desde código y sin ella si es desde terminal.
-
     - `pip install seaborn`
     - `pip install matplotlib`
 
 3️⃣ **Ejecuta el análisis de datos:**  
-
-    - Abre los notebooks en Jupyter Notebook o Google Colab.  
-    - Sigue el proceso de limpieza y exploración de datos.  
+- Abre los notebooks en Jupyter Notebook o Google Colab.  
+- Sigue el proceso de limpieza y exploración de datos.  
 
 4️⃣ **Explora los dashboards en Power BI.**  
 
