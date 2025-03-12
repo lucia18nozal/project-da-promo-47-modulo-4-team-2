@@ -51,10 +51,7 @@ Este proyecto tiene como objetivo transformar datos crudos en información útil
 📁 data-science-salaries-project  
 │── 📂 CSV/     
 │───── 📜 Salaries_Data_Dataset.csv  
-│───── 📜 Salaries_Data.csv 
-│── 📂 images/  
-│───── 📷 salary_trends.png  
-│───── 📷 role_comparisons.png  
+│───── 📜 Salaries_Data.csv  
 │── 📜 analisis_datos.pbix  
 │── 📜 README.md  
 │── 📜 salaries_data.ipynb  
